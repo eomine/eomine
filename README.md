@@ -1,1 +1,9 @@
-Senior Frontend Engineer with 20+ years building large-scale, customer-facing applications, specializing in React, Next.js, and TypeScript. Led a website rebuild that cut CSS payload by 79% and JS payload by 55%. Currently using AI tools to navigate and extend complex, undocumented codebases. Background in architecture and design (MSc, Design and Architecture, USP) brings a strong visual and UX sensibility to frontend work. Experienced leading teams, architecting systems from scratch, and collaborating across global, cross-functional teams.
+Senior Frontend Engineer with 20+ years building large-scale, customer-facing applications, specializing in **React, Next.js, and TypeScript.**
+
+Led a website rebuild that cut CSS payload by 79% and JS payload by 55%.
+
+Currently using AI tools to navigate and extend complex, undocumented codebases.
+
+Background in architecture and design (MSc, Design and Architecture, USP) brings a **strong visual and UX sensibility** to frontend work.
+
+Experienced leading teams, **architecting systems** from scratch, and collaborating across **global,** cross-functional teams.
